@@ -6,4 +6,10 @@ package com.example.springbootdemo.controller;
  * @create: 2020/9/15 18:15
  **/
 public class UserController {
+
+    public static void main(String[] args) {
+        System.out.println("stash一下");
+    }
+
+
 }
